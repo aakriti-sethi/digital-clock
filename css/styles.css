@@ -13,24 +13,6 @@ body{
   background: #020100;
 }
 
-/* .container{
-  border: 10px solid rgb(0, 240, 0);
-  width: 450px;
-  height: 450px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  color: #fff;
-  font-size: 32px;
-  border-radius: 50%;
-  background: rgb(0, 0, 0);
-  box-shadow:
-      0 0 5px rgb(0, 240, 0);
-      0 0 10px rgb(0, 240, 0);
-      0 0 15px rgb(0, 240, 0);
-} */
-
 .time{
   font-size: 12em;
   color: #F30067;
