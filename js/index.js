@@ -26,7 +26,6 @@ function updateTime() {
   let year = d.getFullYear();
   if(year >= 0 && year <= 9) year = "0" + year;
   dateEl.innerHTML = `${date}/${month}/${year}`;
-//  dateEl.getElementById("#date"). innerHTML = d.toDateString();
 
 
   const dayEL = document.querySelector("#day");
